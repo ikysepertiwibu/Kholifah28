@@ -185,7 +185,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
              {
              callButton: {
                displayText: 'Hp Owner',
-               PhoneNumber: '0815-1148-0872'
+               PhoneNumber: '0896-1872-8196'
              }
 
            },
